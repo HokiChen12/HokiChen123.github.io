@@ -1,0 +1,26 @@
+body {
+    padding: 0;
+    margin: 10px;
+    background-color: slategrey;
+}
+
+time{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 0%;
+    margin-left: 20%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+}
+
+button{
+    background-position: 50%;
+    background-image: url("kucing gigachad.jpg");
+    padding: 80px 50px;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 0%;
+    margin-left: 38%;
+    margin-right: 38%;
+    margin-bottom: 20%;
+}
